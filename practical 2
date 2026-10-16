@@ -1,4 +1,4 @@
-
+// Single Inheritance 
 class Vehicle {
     String brand = "Toyota";
 
@@ -26,7 +26,7 @@ public class Main {
 
 
 
-
+// Multilevel Inheritance
 
 class Person {
     String name = "Om";
@@ -62,17 +62,11 @@ public class Main {
     }
 }
 
-
-
-
-
-
 }
 
 
 
-
-
+// Hierarchical Inheritance 
 
 class Shape {
     String color = "Blue";
